@@ -1,0 +1,45 @@
+.container{
+    font-size: 18px;
+    font-family: Arial;
+    margin-top: 8px;
+}
+
+.navigation{
+    margin-left: 100px;
+    background-color: orange;
+}
+
+.title-artig{
+    margin-left: 100px;
+}
+
+.title-principal{
+    margin-left: 13px;
+    color: aliceblue;
+}
+
+
+
+.artigo{
+    margin-left: 100px;
+}
+
+.img-polonia img{
+    width: 50%;
+    height: auto;
+}
+
+.title-movie{
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.links{
+    color: gray; 
+}
+
+
+.links a:visited {
+    color: red;
+}
+
